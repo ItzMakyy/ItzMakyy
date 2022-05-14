@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm ItzMaky</h1>
 <h3 align="center">Java & JS Developer from Czech Republic</h3>
 
-- 🔭 I’m currently working on **ServerManager**
-
-- 👯 I’m looking to collaborate on **Minecraft Server**
+- 🔭 I’m currently working on **PluginController**
 
 - 📫 How to reach me **maky.dev16@gmail.com**
 
